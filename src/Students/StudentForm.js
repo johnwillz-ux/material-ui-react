@@ -26,7 +26,7 @@ const genderItems =[
     {id:'female', title:'Female'},
     {id:'others', title:'Bobbyrisky'},
 ]
-
+git
 export default function StudentForm (){
 
     const {values,
